@@ -1,5 +1,6 @@
 #funcionamento do software em python
 
+
 p1 = float(input("Digite um produto: "))
 p2 = float(input("Digite um produto: "))
 p3 = float(input("Digite um produto: "))
